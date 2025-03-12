@@ -1,0 +1,16 @@
+# Easy description of a floorplan problem
+---
+boundary:
+    width: 500
+    height: 500
+blocks:
+    - bk0:
+        width: 100
+        height: 100
+    - bk1:
+        width: 31
+        height: 42
+    - bk2:
+        width: 66
+        height: 69
+...
